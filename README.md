@@ -4,7 +4,7 @@
  
 <img alt="coding" width="300" align="right" src="https://github.com/shivam-th/shivam-th/blob/main/Desktop_img.JPG"> 
 
-- 🔭 I’m currently working on **Infosys**
+- 🔭 I’m currently working in **Infosys**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivam-th?tab=repositories](https://github.com/shivam-th?tab=repositories)
 
