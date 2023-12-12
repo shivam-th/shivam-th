@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Ankush Thakur</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
  
-<img alt="coding" width="300" align="right" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fprompti.ai%2Fwp-content%2Fuploads%2F2023%2F07%2Fpcboi2.png&tbnid=F0XyQN3AZLVdcM&vet=12ahUKEwiTy_WP9omDAxVN6KACHUxaBywQMygGegUIARCDAQ..i&imgrefurl=https%3A%2F%2Fprompti.ai%2Fcool-coder-logo%2F&docid=VZ3xhvW3_J6sMM&w=997&h=1002&q=coder%20images&ved=2ahUKEwiTy_WP9omDAxVN6KACHUxaBywQMygGegUIARCDAQ"> 
+<img alt="coding" width="300" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54UjmhSdPWZe_m9cY6xRdf3X4xCHk_b5Gnd-N4zRxZK6y8MQ9cZ6nYSkgl1wisKpA4J4&usqp=CAU"> 
 
 - 🔭 I’m currently working on **Infosys**
 
