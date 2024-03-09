@@ -1,6 +1,6 @@
 ![logo](https://github.com/shivam-th/shivam-th/blob/main/Banner_img.jpg)
 <h1 align="center">Hi 👋, I'm Shivam Ankush Thakur</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
  
 <img alt="coding" width="300" align="right" src="https://github.com/shivam-th/shivam-th/blob/main/Desktop_img.JPG"> 
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivam-th?tab=repositories](https://github.com/shivam-th?tab=repositories)
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **devops**
 
 - 📫 How to reach me **shivamthakur0567@gmail.com**
 
