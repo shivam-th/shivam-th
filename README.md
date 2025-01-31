@@ -1,4 +1,4 @@
-![logo](https://github.com/shivam-th/shivam-th/blob/main/Banner_img.jpg)
+![logo](https://github.com/shivam-th/shivam-th/blob/main/Banner_img.jpeg)
 <h1 align="center">Hi 👋, I'm Shivam Ankush Thakur</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
  
