@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Shivam Thakur!
-<img  alt="coding" width="150" align="right" src="https://github.com/shivam-th/shivam-th/blob/main/Desktop_img.JPG"> 
+<img  alt="coding" width="250" align="right" src="https://github.com/shivam-th/shivam-th/blob/main/Desktop_img.JPG"> 
 I'm a passionate **DevOps Engineer | Cloud Enthusiast | Automation Lover**  
 Building scalable, reliable, and secure cloud solutions ☁️🚀  
 
