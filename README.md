@@ -1,33 +1,38 @@
-![logo](https://github.com/shivam-th/shivam-th/blob/main/Banner_img.jpeg)
-<h1 align="center">Hi 👋, I'm Shivam Ankush Thakur</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
- 
-<img alt="coding" width="300" align="right" src="https://github.com/shivam-th/shivam-th/blob/main/Desktop_img.JPG"> 
+# 👋 Hi there, I'm Shivam Thakur!
 
-- 🔭 I’m currently working in **Infosys**
+I'm a passionate **DevOps Engineer | Cloud Enthusiast | Automation Lover**  
+Building scalable, reliable, and secure cloud solutions ☁️🚀  
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivam-th?tab=repositories](https://github.com/shivam-th?tab=repositories)
+---
 
-- 💬 Ask me about **devops**
+### 🛠️ Skills & Tools
+- **Cloud:** AWS, Azure
+- **DevOps:** Jenkins, GitHub Actions, Terraform, Ansible, Kubernetes, Docker
+- **Programming:** Python, Shell Scripting
+- **CI/CD:** GitLab CI, ArgoCD
+- **Monitoring:** Prometheus, Grafana
 
-- 📫 How to reach me **shivamthakur0567@gmail.com**
+---
 
+### 📚 Current Focus
+- Mastering Kubernetes & Terraform
+- Automating Cloud Infrastructure (AWS & Azure)
+- Building End-to-End DevOps pipelines
 
-<p align="left">
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="your-username" />
 </p>
 
+---
 
-<!--
-**shivam-th/shivam-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [Portfolio Website](https://yourwebsite.com) (optional)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Automate everything that can be automated!" 🚀
