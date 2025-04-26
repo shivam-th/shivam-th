@@ -2,7 +2,7 @@
 
 I'm a passionate **DevOps Engineer | Cloud Enthusiast | Automation Lover**  
 Building scalable, reliable, and secure cloud solutions ☁️🚀  
-<img alt="coding" width="300" align="right" src="https://github.com/shivam-th/shivam-th/blob/main/Desktop_img.JPG"> 
+<img alt="coding" width="200" align="right" src="https://github.com/shivam-th/shivam-th/blob/main/Desktop_img.JPG"> 
 ---
 
 ### 🛠️ Skills & Tools
