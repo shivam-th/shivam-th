@@ -6,17 +6,17 @@ Building scalable, reliable, and secure cloud solutions ☁️🚀
 ---
 
 ### 🛠️ Skills & Tools
-- **Cloud:** AWS, Azure
-- **DevOps:** Jenkins, GitHub Actions, Terraform, Ansible, Kubernetes, Docker
+- **Cloud:** AWS
+- **DevOps:** Jenkins, Terraform, Ansible, Kubernetes, Docker
 - **Programming:** Python, Shell Scripting
-- **CI/CD:** GitLab CI, ArgoCD
-- **Monitoring:** Prometheus, Grafana
+- **CI/CD:** ArgoCD
+- **Monitoring:** Prometheus, Grafana, Nagios
 
 ---
 
 ### 📚 Current Focus
 - Mastering Kubernetes & Terraform
-- Automating Cloud Infrastructure (AWS & Azure)
+- Automating Cloud Infrastructure (AWS)
 - Building End-to-End DevOps pipelines
 
 ---
@@ -29,9 +29,8 @@ Building scalable, reliable, and secure cloud solutions ☁️🚀
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Portfolio Website](https://yourwebsite.com) (optional)
+- [LinkedIn](https://www.linkedin.com/in/shivam-th)
+- [Twitter](https://twitter.com/shivam-th)
 
 ---
 
