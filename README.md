@@ -21,13 +21,6 @@ Building scalable, reliable, and secure cloud solutions ☁️🚀
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="your-username" />
-</p>
-
----
-
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/shivam-th)
 - [Twitter](https://twitter.com/shivam-th)
